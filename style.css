@@ -185,3 +185,6 @@ html {
 .footer-title p:hover {
     color: rgb(6, 9, 174);
 }
+.contact-form {
+  clear: both;
+}
