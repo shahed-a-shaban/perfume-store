@@ -1,4 +1,8 @@
-body {
+ @media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+     body {
     direction: rtl;
     margin: 0;
     padding: 0;
