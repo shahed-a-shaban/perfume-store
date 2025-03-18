@@ -150,6 +150,7 @@ html {
 .testimonials{
     background-color:#EADDCE; ;
     padding: 50px 20px;
+ margin-bottom: 50px;
 }
 .contact-us form .form-control {
     border-radius: 8px;
